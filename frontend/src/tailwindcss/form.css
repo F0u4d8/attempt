@@ -1,0 +1,16 @@
+
+.label {
+
+@apply block mb-2 text-base capitalize text-gray-500
+
+
+}
+
+
+.form-control{
+
+    @apply bg-blue-300 p-3 rounded-sm outline-none w-full focus:ring-[3px] transition-all duration-500 placeholder:text-gray-500 placeholder:capitalize; 
+
+
+
+}
